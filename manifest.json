@@ -1,0 +1,21 @@
+{
+    "name": "berabou.meホストアプリ",
+    "description": "berabou.meをホストアプリにしてみた。",
+    "app": {
+        "launch": {
+            "web_url": "http://nicolive.berabou.me",
+            "container": "panel",
+            "height": 30,
+            "width": 160,
+            "minHeight":30,
+            "minWidth":160,
+            "maxHeight":300,
+            "maxWidth":600      
+        }
+    },
+    "icons": {
+        "128": "128.png"
+    },
+    "manifest_version": 2,
+    "version": "0.0.1"
+}
